@@ -9,4 +9,5 @@ import Foundation
 
 struct myStruct {
     var name: String?
+    var length: String? 
 }
